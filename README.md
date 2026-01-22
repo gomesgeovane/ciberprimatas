@@ -1,4 +1,4 @@
-# 📚 Artigos Técnicos e Pesquisas - Projeto Ciberprimatas
+# 🐒 Artigos Técnicos e Pesquisas - Projeto Ciberprimatas
 
 Bem-vindo! Este repositório contém artigos técnicos focados em simplificar conceitos complexos de **Cibersegurança** e **Redes de Computadores** para todos os públicos. Estes trabalhos fazem parte do meu projeto pessoal, **Ciberprimatas**.
 
