@@ -5,11 +5,11 @@ Bem-vindo! Este repositório contém artigos técnicos focados em simplificar co
 ## 📑 Lista de Artigos
 
 ### ✅ Já Disponíveis
-* 🛡️ **[Introdução à Cibersegurança: Entrando no mundo da cibersegurança - Guia Definitivo para Primatas]()**
+* 🛡️ **[Introdução à Cibersegurança: Entrando no mundo da cibersegurança - Guia Definitivo para Primatas](ciberprimatas/Introdução à Cibersegurança: Entrando no mundo da cibersegurança - Guia Definitivo para Primatas.pdf)**
     * Diferença entre Segurança da Informação e Cibersegurança.
     * Tipos de hackers e suas motivações.
     * Ameaças digitais comuns e mecanismos de defesa.
-* 🌐 **[Fundamento de Redes de Computadores: Segurando a sua mão, e entendendo o mundo da comunicação - Guia Definitivo para Primatas](artigos/Fundamentos_de_Redes.pdf)**
+* 🌐 **[Fundamento de Redes de Computadores: Segurando a sua mão, e entendendo o mundo da comunicação - Guia Definitivo para Primatas](ciberprimatas/Fundamento de Redes de Computadores: Segurando a sua mão, e entendendo o mundo da comunicação - Guia Definitivo para Primatas.pdf)**
     * Topologias de rede e tipos de transmissão (Cabeada vs. Wireless).
     * Diferenças entre LAN e WAN e a lógica Cliente-Servidor.
     * Protocolos, Roteadores e Switches: Os guardiões do tráfego.
