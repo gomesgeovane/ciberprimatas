@@ -1,30 +1,33 @@
-# 📚 Technical Articles & Research - Ciberprimatas Project
+# 📚 Artigos Técnicos e Pesquisas - Projeto Ciberprimatas
 
-Welcome! This repository contains technical articles focused on simplifying complex **Cybersecurity** and **Networking** concepts for a broad audience. These works are part of my personal project, **Ciberprimatas**.
+Bem-vindo! Este repositório contém artigos técnicos focados em simplificar conceitos complexos de **Cibersegurança** e **Redes de Computadores** para todos os públicos. Estes trabalhos fazem parte do meu projeto pessoal, **Ciberprimatas**.
 
-## 📑 Available Articles (In Portuguese - PT-BR)
+## 📑 Lista de Artigos
 
-### 🛡️ [Introduction to Cybersecurity: Entering the World of Cyber Defense](artigos/Introducao_a_Ciberseguranca.pdf)
-A comprehensive guide for beginners, covering:
-* Difference between Cybersecurity and Information Security.
-* Types of hackers and their motivations.
-* Common digital threats and defense mechanisms.
+### ✅ Já Disponíveis
+* 🛡️ **[Introdução à Cibersegurança: Entrando no mundo da cibersegurança - Guia Definitivo para Primatas]()**
+    * Diferença entre Segurança da Informação e Cibersegurança.
+    * Tipos de hackers e suas motivações.
+    * Ameaças digitais comuns e mecanismos de defesa.
+* 🌐 **[Fundamento de Redes de Computadores: Segurando a sua mão, e entendendo o mundo da comunicação - Guia Definitivo para Primatas](artigos/Fundamentos_de_Redes.pdf)**
+    * Topologias de rede e tipos de transmissão (Cabeada vs. Wireless).
+    * Diferenças entre LAN e WAN e a lógica Cliente-Servidor.
+    * Protocolos, Roteadores e Switches: Os guardiões do tráfego.
 
-### 🌐 [Fundamentals of Computer Networks: Understanding Communication](artigos/Fundamentos_de_Redes.pdf)
-An essential deep dive into how devices talk to each other, featuring:
-* Network topologies and transmission types (Wired vs. Wireless).
-* LAN vs. WAN differences and Client-Server logic.
-* Protocols, Routers, and Switches: The gatekeepers of traffic.
-
----
-
-## ⚖️ License & Copyright
-These articles are the intellectual property of **Geovane R. R. Gomes**.
-
-They are licensed under the **Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International (CC BY-NC-ND 4.0)**.
-* **Attribution:** You must give appropriate credit.
-* **Non-Commercial:** You may not use this material for commercial purposes (selling).
-* **No-Derivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material.
+### 🚀 Próximos Lançamentos (Em Breve)
+* 🏗️ **As Camadas da Internet: Entendendo o modelo OSI e TCP/IP - Guia Definitivo para Primatas**
+    * Uma exploração sobre os modelos TCP/IP e OSI.
+    * A base necessária para entender ataques como o Man-in-the-Middle (MitM).
 
 ---
-📫 **Contact:** contatogeorrgomes@gmail.com
+
+## ⚖️ Licença e Direitos Autorais
+Estes artigos são propriedade intelectual de **Geovane R. R. Gomes**.
+
+Eles estão licenciados sob a **Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International (CC BY-NC-ND 4.0)**.
+* **Atribuição:** Você deve dar o crédito apropriado ao autor.
+* **Não Comercial:** Você não pode usar este material para fins comerciais (venda).
+* **Sem Derivações:** Se você alterar ou transformar o material, não poderá distribuir o material modificado.
+
+---
+📫 **Contato:** contatogeovanerrg@gmail.com
