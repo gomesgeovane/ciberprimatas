@@ -14,10 +14,12 @@ Bem-vindo! Este repositório contém artigos técnicos focados em simplificar co
     * Diferenças entre LAN e WAN e a lógica Cliente-Servidor.
     * Protocolos, Roteadores e Switches: Os guardiões do tráfego.
 
-### 🚀 Próximos Lançamentos (Em Breve)
-* 🏗️ **As Camadas da Internet: Entendendo o modelo OSI e TCP/IP - Guia Definitivo para Primatas**
-    * Uma exploração sobre os modelos TCP/IP e OSI.
-    * A base necessária para entender ataques como o Man-in-the-Middle (MitM).
+### 🚀 Próxima Fase: Plataforma Ciberprimata (Em Desenvolvimento)
+* 🏗️ **Estou transformando este repositório em um ecossistema educacional completo e seguro.**
+   * 🏗️ **Arquitetura:** Desenvolvida com Python & Django.
+   * 🔐 **Segurança & Pagamentos:** Implementação de checkout seguro via Stripe.
+   * 💻 **Interface:** Frontend responsivo com HTML5, CSS3 e JavaScript.
+   * 🎯 **Foco:** Criar uma experiência escalável para disseminação de conhecimento em Cibersegurança.
 
 ---
 
